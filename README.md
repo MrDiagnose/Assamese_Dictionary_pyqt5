@@ -1,5 +1,10 @@
 # Assamese_Dictionary_pyqt5
 A simple Assamese Dictonary using http://www.xobdo.org/ database made in python with pyqt5
+
+## REQUIREMENTS
+1. [python](https://www.python.org/)
+2. pip install pyqt5
+
 ## SCREENSHOTS
 
 ![Screenshot 1](https://github.com/MrDiagnose/Assamese_Dictionary_pyqt5/blob/main/screenshots/1.jpg)
